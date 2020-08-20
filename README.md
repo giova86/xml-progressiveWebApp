@@ -8,7 +8,7 @@ Per poter creare le applicazioni utilizziamo il sito [Adobe PhoneGap](https://bu
 
 ## Preparazione dei file
 
-- Config.xml [Link](http://docs.phonegap.com/phonegap-build/configuring/#example)
+- Config.xml [[Link]](http://docs.phonegap.com/phonegap-build/configuring/#example)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -33,7 +33,7 @@ Per poter creare le applicazioni utilizziamo il sito [Adobe PhoneGap](https://bu
 </widget>
 ```
 
-- index.html [Link](https://www.w3schools.com/html/)
+- index.html [[Link]](https://www.w3schools.com/html/)
 
 ```html
 <!DOCTYPE html>
