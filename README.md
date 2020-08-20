@@ -50,5 +50,10 @@ Per poter creare le applicazioni utilizziamo il sito [Adobe PhoneGap](https://bu
 </html>
 ```
 
+## Creazione delle Applicazioni
+
+* Recarsi sul sito Adobe PhoneGap
+* Accedere con un account gratuito
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
