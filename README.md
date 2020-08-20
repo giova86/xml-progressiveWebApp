@@ -33,7 +33,7 @@ Per poter creare le applicazioni utilizziamo il sito [Adobe PhoneGap](https://bu
 </widget>
 ```
 
-> index.html [[Link]](https://www.w3schools.com/html/)
+> Opzione 1 - index.html [[Link]](https://www.w3schools.com/html/) 
 
 ```html
 <!DOCTYPE html>
@@ -47,6 +47,19 @@ Per poter creare le applicazioni utilizziamo il sito [Adobe PhoneGap](https://bu
 <p>This is a paragraph.</p>
 
 </body>
+</html>
+```
+
+> Opzione 2 - index.html [[Link]](https://www.w3schools.com/html/)
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://kiwidatascience.com'" />
+  </head>
+  <body>
+  </body>
 </html>
 ```
 
