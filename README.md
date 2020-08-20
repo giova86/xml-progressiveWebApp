@@ -4,7 +4,7 @@ Tutorial per creare applicazioni cross platform, ovvero applicazioni che funzion
 
 ## Adobe PhoneGap
 
-Per poter creare le applicazioni utilizziamo il sito [Adobe PhoneGap](https://build.phonegap.com)
+Per poter creare le applicazioni utilizzare il sito [Adobe PhoneGap](https://build.phonegap.com)
 
 ## Preparazione dei file
 
