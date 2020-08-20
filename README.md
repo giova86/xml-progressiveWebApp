@@ -63,7 +63,11 @@ OSS: per creare un'applicazione iOS è necessario un'account sviluppatore.
 
 ### Android
 
+Per installare l'applicazione è sufficiente scaricare il file apk o, in alternativa, inquadrare con la fotocamera il QRCode. Ovviamente il cellulare riconoscerà l'applicazione come non sicura. Se non risulta possibile continuare l'installazione è necessario recarsi nella sezione "Opzioni sviluppatore" e abilitare l'installazione da terze parti. 
+
 ### iOS
+
+... to be done
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
