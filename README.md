@@ -52,8 +52,18 @@ Per poter creare le applicazioni utilizziamo il sito [Adobe PhoneGap](https://bu
 
 ## Creazione delle Applicazioni
 
-i. Recarsi sul sito Adobe PhoneGap
-ii. Accedere con un account gratuito
+1. Recarsi sul sito Adobe PhoneGap
+2. Accedere con un account gratuito (questo da la possibilità di lavorare ad una sola app).
+3. Comprimere tutti i file necessari in un .zip e caricarlo sul sito.
+4. Cliccare sul tasto "Build"
+
+OSS: per creare un'applicazione iOS è necessario un'account sviluppatore.
+
+## Installazione APP
+
+### Android
+
+### iOS
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
